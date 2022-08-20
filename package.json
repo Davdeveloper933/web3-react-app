@@ -7,7 +7,6 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "next export"
   },
   "dependencies": {
     "@web3-react/core": "^6.1.9",
